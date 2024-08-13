@@ -1,8 +1,11 @@
 [Bookmarks]
 [Recent]
+E:\OneDrive\BlenderDesign\snowmount\
+E:\OneDrive\BlenderDesign\textures\
+E:\OneDrive\BlenderDesign\plugins\
+E:\Assets\
 D:\Program Files\Sai2\
 E:\BlenderCache\
 E:\RenderOutput\
 E:\OneDrive\BlenderDesign\tmp\
 E:\OneDrive\BlenderDesign\sounds\
-E:\OneDrive\BlenderDesign\textures\
