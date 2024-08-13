@@ -1,0 +1,8 @@
+[Bookmarks]
+[Recent]
+D:\Program Files\Sai2\
+E:\BlenderCache\
+E:\RenderOutput\
+E:\OneDrive\BlenderDesign\tmp\
+E:\OneDrive\BlenderDesign\sounds\
+E:\OneDrive\BlenderDesign\textures\

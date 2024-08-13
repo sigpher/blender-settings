@@ -1,0 +1,4 @@
+*.blend
+*.dat
+__pychche__\
+*.pyc
